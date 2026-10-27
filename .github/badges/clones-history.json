@@ -442,8 +442,13 @@
       "timestamp": "2026-10-24T00:00:00Z",
       "count": 6,
       "uniques": 6
+    },
+    {
+      "timestamp": "2026-10-25T00:00:00Z",
+      "count": 11,
+      "uniques": 6
     }
   ],
-  "total": 640,
-  "total_uniques": 428
+  "total": 651,
+  "total_uniques": 434
 }
